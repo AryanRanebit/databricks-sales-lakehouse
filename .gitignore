@@ -1,0 +1,4 @@
+pipeline.duckdb
+__pycache__/
+.pytest_cache/
+data/raw/
